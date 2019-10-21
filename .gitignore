@@ -1,0 +1,17 @@
+# IntelliJ project files
+.idea
+
+# Downloaded charts
+*.tgz
+
+# Local values override files
+
+# Local resource files
+/resources/*
+
+# Local
+*.DS_Store
+/charts/clouddns.key.json
+/charts/clouddns1.key.json
+/charts/license.xml
+
