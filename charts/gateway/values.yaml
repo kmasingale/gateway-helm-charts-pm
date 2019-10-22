@@ -40,7 +40,7 @@ service:
       external: 443
     - name: admin-port
       internal: 9443
-      external: 9443
+      external: 8443
 
 livenessProbe:
   enabled: true
