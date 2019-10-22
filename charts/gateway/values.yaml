@@ -83,7 +83,7 @@ gateway:
     cert: tls.crt
     pem: tls.key
   adminUsername: "admin"
-  adminPassword:
+  adminPassword: "7layer"
 
 hazelcast:
   enabled: true
